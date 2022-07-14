@@ -3,7 +3,7 @@
   "tabWidth": 2,
   "printWidth": 90,
   "vueIndentScriptAndStyle": false,
-  "endOfLine": "crlf",
+  "endOfLine": "lf",
   "singleQuote": true,
   "semi": true,
   "bracketSpacing": true,
