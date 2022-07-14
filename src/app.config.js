@@ -5,7 +5,7 @@ export default defineAppConfig({
     {
       root: 'pages/featureA',
       pages: ['index/index']
-    },
+    }
   ],
   window: {
     backgroundTextStyle: 'light',
