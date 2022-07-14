@@ -12,8 +12,9 @@ module.exports = {
         singleQuote: true,
         semi: false,
         trailingComma: 'none',
-        arrowParens: 'avoid',
-        printWidth: 100
+        arrowParens: 'avoid', // 箭头函数参数只有一个时是否要有小括号。avoid：省略括号
+        printWidth: 100,
+        endOfLine: 'auto'
       }
     ],
     'vue/multi-word-component-names': 'off', // 关闭组件命名规则
